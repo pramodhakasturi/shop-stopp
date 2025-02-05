@@ -8,7 +8,7 @@ https://shop-stopp-1.onrender.com
 
 # Tools Used
 
-• MONGOdB
+• MongoDb
 
 • ExpressJS
 
