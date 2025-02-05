@@ -1,5 +1,5 @@
 /** @type {import('tailwindcss').Config} */
-/eslint-env node/
+import * as tailwindAnimate from "tailwindcss-animate"
 module.exports = {
   darkMode: ["class"],
   content: [
@@ -74,5 +74,5 @@ module.exports = {
       },
     },
   },
-  plugins: [require("tailwindcss-animate")],
+  plugins: ["tailwindcss-animate"],
 }
