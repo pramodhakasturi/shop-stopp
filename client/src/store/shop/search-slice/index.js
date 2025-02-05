@@ -17,7 +17,6 @@ export const getSearchResults = createAsyncThunk(
   }
 );
 
-
 const searchSlice = createSlice({
   name: "searchSlice",
   initialState,
