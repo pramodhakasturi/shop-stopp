@@ -16,7 +16,6 @@ https://shop-stopp-1.onrender.com
 
 • NodeJS
 
-• Bootstrap
 
 # Functionality
 
@@ -27,6 +26,8 @@ https://shop-stopp-1.onrender.com
 • Remove products from the cart
 
 • Complete the purchase
+
+• Admin Panel to Add, Edit, and Delete Products 
 
 # Deployment
 
