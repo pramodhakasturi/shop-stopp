@@ -1,5 +1,6 @@
 /** @type {import('tailwindcss').Config} */
-export default {
+/*eslint-env node*/
+module.exports = {
   darkMode: ["class"],
   content: [
     './pages/**/*.{js,jsx}',
